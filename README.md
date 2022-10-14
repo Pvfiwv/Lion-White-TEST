@@ -15,7 +15,7 @@ python3 main_end.py
 
 - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-TOOL NÀY ANH EM TEST REQUESTS NÓ ĐÉO LÊN ĐÂU CỨ LẤY WEB MÀ DDOS
+TOOL NÀY ANH EM TEST REQUESTS NÓ ĐÉO LÊN ĐÂU CỨ LẤY CAPCUT MAK TEST
 
 Anh Em DDoS Thì Cứ Ngồi Mak Load Từ Từ R DIE 
 

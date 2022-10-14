@@ -15,7 +15,7 @@ python3 main_end.py
 
 - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-Scr Này Test Rqeuests Nó ĐÉO Lên Đâu
+TOOL NÀY ANH EM TEST REQUESTS NÓ ĐÉO LÊN ĐÂU CỨ LẤY WEB MÀ DDOS
 
 Anh Em DDoS Thì Cứ Ngồi Mak Load Từ Từ R DIE 
 

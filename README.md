@@ -9,6 +9,8 @@ Lệnh :
 
 git clone https://github.com/fuck0211/Lion-White/
 
+pip3 install colorama
+
 cd Lion-White
 
 python3 main_end.py

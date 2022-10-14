@@ -1,4 +1,4 @@
-# Lion-White
+# LION - WHITE
 Lion-White Đang Trong Quá Trình Test
 
 Scr Này Chỉ Hoạt Động Trên Google Shell 
